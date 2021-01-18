@@ -4,7 +4,6 @@
 
 ## Table of Contents
 * [🎯 Goals](#goals)
-* [⚡ Get Started](#get-started)
 
 ## 🎯 Goals
 
