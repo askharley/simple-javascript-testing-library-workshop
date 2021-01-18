@@ -1,6 +1,6 @@
 # Simple JavaScript Testing Library
 
-> A workshop to explain how to go about integrating Firebase into your React application. We'll be implementing Authentication, Firestore, Remote Config, Cloud Functions and Hosting.
+> A workshop to go over why unit tests are important, why we should be writing them in our frontend applications and how to go about writing a simple library of your own.
 
 ## Table of Contents
 * [🎯 Goals](#goals)
