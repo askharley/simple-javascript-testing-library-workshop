@@ -1,6 +1,3 @@
-// Import stylesheets
-import "./style.css";
-
 const sum = (a, b) => a + b;
 const subract = (a, b) => a - b;
 
